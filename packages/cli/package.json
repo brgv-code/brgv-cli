@@ -1,6 +1,6 @@
 {
   "name": "brgv-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "start": "tsc -w --preserveWatchOutput",
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@brgv-cli/local-client": "^1.0.0"
+    "@brgv-cli/local-client": "^1.0.1"
   },
   "devDependencies": {
-    "@brgv-cli/local-api": "^1.0.0",
+    "@brgv-cli/local-api": "^1.0.1",
     "@types/node": "^18.14.1",
     "commander": "^10.0.0",
     "esbuild": "^0.17.10",
